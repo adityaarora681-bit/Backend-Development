@@ -9,10 +9,12 @@
 3. [Exp 12(B)](./lab/Exp12_B)
 ---
 ## Theory
-1. [Task 1](./Theory/Task_1)
-2. [Task 2](./Theory/Task_2)
-3. [Task 3](./Theory/Task_3)
-4. [Task 4](./Theory/Task_4)
+1. [Assignment 1 - Notes App](./Theory/Assignment-1-Notes-App)
+2. [L01 - Node.js Basics](./Theory/L01-Node.js-Basics)
+3. [L04 - HTTP Requests and Responses](./Theory/L04-HTTP-Requests-and-Responses)
+4. [L05 - RESTful APIs FastAPI](./Theory/L05-RESTful-APIs-FastAPI)
+5. [L06 - Session Control](./Theory/L06-Session-Control)
+6. [L07 - Web Storage](./Theory/L07-Web-Storage)
 
 Name: Aditya Arora
 Batch: 03
